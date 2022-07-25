@@ -1,8 +1,8 @@
 {
 
-    "LANGUAGE": "English",
+    "LANGUAGE": "Arabic",
 
-    "LANGCODE": "en",
+    "LANGCODE": "ar",
 
     "AUTHOR"  : "sanuwa official",
 
@@ -74,9 +74,9 @@
 
                              "UNMUTE"        : "*🧜‍♀️💬لقد تم فتح المجموعة!.*",
 
-                             "PROMOTE"       : "has been promoted !",
+                             "PROMOTE"       : "لقد أصبح صاحب المجموعة💙💙💙💙",
 
-                             "DEMOTE"        : "has been demoted !"
+                             "DEMOTE"        : "لم يعد صاحب المجموعة🖤🖤🖤"
 
     
 
